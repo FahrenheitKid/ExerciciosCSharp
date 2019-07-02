@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CAC36105-EBF4-4F72-A389-3002B207D40D}</ProjectGuid>
+    <ProjectGuid>{F2DFC4FA-07B7-4F4C-830B-2F1EBF61131C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>HelloWorld2</RootNamespace>
-    <AssemblyName>HelloWorld2</AssemblyName>
+    <RootNamespace>Exercicio2</RootNamespace>
+    <AssemblyName>Exercicio2</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
