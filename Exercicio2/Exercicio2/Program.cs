@@ -27,6 +27,7 @@ namespace Exercicio2
             while (val != 0)
             {
                 val = (float)Convert.ToDouble(Console.ReadLine());
+
                 if (val > 0)
                 {
                     listaNumeros.Add(val);
