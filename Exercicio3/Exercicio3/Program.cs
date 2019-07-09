@@ -15,7 +15,7 @@ namespace Exercicio3
             Console.WriteLine("Fique digitando a quantidade de gold seguida da quantidade de montarias dos personagens");
             Console.WriteLine("Digite uma quantidade negativa de gold quando quiser parar de digitar personagens");
 
-            //variaveis para guardar e calcular os valores
+            //variaveis para guardar e calcular os valores 
             float maiorGold, mediaGold, mediaMontaria, percentualGold, quantidadePersonagens;
 
             float val = 0;
