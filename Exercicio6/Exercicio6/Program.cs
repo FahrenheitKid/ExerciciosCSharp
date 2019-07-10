@@ -46,6 +46,7 @@ namespace Exercicio6
             bool sair = false;
             bool calcCientifica = false;
 
+            
             while (!sair)
             {
                 Console.WriteLine("Digite qual calculadora deseja utilizar:");
